@@ -1,4 +1,4 @@
-function addingEventListener() {
+function addingEventListener(eventName, functionName) {
 
 }
 
