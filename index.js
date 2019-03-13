@@ -1,4 +1,4 @@
-function addingEventListener('click', functionName) {
+function addingEventListener(eventName, functionName) {
   
   const main = document.getElementById('main');
   
